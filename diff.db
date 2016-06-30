@@ -1,0 +1,989 @@
+Результаты || Sonuçlar
+Голосовать || Değerlendir
+Всего проголосовало || Toplam oy sayısı
+Все опросы || Tüm anketler
+Опрос || Anket
+Изменить || Düzenle
+Добавить || Ekle
+Введите два слова, показанных на изображении || Resimde görünen, iki kelimeyi girin
+Введите код с картинки || Resimdeki kodu girin
+Ответ || Cevabınız
+Вопрос || Soru
+Комментарий || Yorumunuz
+Имя || Adınız
+Ваше Имя || Adınız
+Введите код || Kodu girin
+Отправить || Gönder
+Ваш E-Mail || E-Mail
+Код || Kod
+Немного о себе || Hakkında
+Место жительства || Nereden
+Статус || Durumu
+Последнее посещение || Son ziyareti
+Дата регистрации || Kayıt tarihi
+Количество публикаций || Makaleleri
+Количество комментариев || Yorumları
+В группе до || Grup için kalan süresi
+в группе до || Grup için kalan süresi
+Группа || Grubu
+Полное имя || Tam adı
+Рейтинг || Reyting
+Пользователь || Üye
+Пользователь offline || Kullanıcı çevrimdışı
+Пользователь Онлайн || Kullanıcı çevrimiçi
+Укажите E-mail на данном сервисе || Bu servis için kullandığınız E-Mail adresiniz
+Отправить || Kaydet
+Подпись || İmzanız
+О себе || Hakkınızda
+Удалить аватар || Avatarı sil
+Удалить фотографию || Fotoğrafı sil
+Сервис || Servis
+Загрузить с комьютера || Bilgisayardan yükle
+
+Аватар || Avatar
+Пример || Örnek
+Ваш IP || IP Adresiniz
+Блокировка по IP || IP Sabitleme
+Повторите || Yeni şifrenizi tekrarlayın
+Новый пароль || Yeni şifreniz
+Старый пароль || Şuanki şifreniz
+Номер ICQ || ICQ Numaranız
+Список игнорируемых пользователей || Yasaklı kullanıcılar
+Отписаться от подписанных новостей || Abonelikleri iptal et
+Ваш E-Mail || E-Mail Adresiniz
+Ваше Имя || Adınız
+Редактирование профиля || Profili düzenle
+Редактирование информации || Profili düzenle
+* Внимание! Будьте бдительны при изменении данной настройки. || * Dikkat! Bu ayarı değiştirirken dikkatli olun.
+Доступ к Вашему аккаунту будет доступен только с того IP-адреса или подсети, который Вы укажете. || IP Adresinizi sabitlerseniz sitemize sadece belirttiğinizi IP adreslerinden girmek zorunda kalacaksınız.
+Вы можете указать несколько IP адресов, по одному адресу на каждую строчку. || Her satırda farklı bir IP adresi belirtebilirsiniz.
+Инопресса || Gündem
+Культура || Kültür
+Спорт || Spor
+Криминал || Suç
+Религия || Din
+Экономика || Ekonomi
+В мире || Dünya
+О сайте || Site hakkında
+Рынок || Magazin
+Котировки валют || Finans
+Катировки валют || Finans
+Биржи || Borsa
+Новости || Haberler
+Погода || Hava
+Климат || İklim
+Катастрофы || Felaketler
+Чтение RSS || RSS Kanalı
+Все ключевые теги || Tüm etiketler
+Версия для печати || Yazdırılabilir versiyon
+DataLife Engine || DataLife Engine
+Вернуться назад || Geri dön
+Главная || Ana Sayfa
+Лучшие пользователи || Aktif üyeler
+Список лучших пользователей || Aktif üye listesi
+Добавлено {news_month} новостей и {comm_month} комментариев, зарегистрировано {user_month} пользователей || Bugün ay {news_month} makale, {comm_month} yorum ve {user_month} üye sitemize eklendi
+Добавлено {news_week} новостей и {comm_week} комментариев, зарегистрировано {user_week} пользователей || Bugün hafta {news_week} makale, {comm_week} yorum ve {user_week} üye sitemize eklendi
+Добавлено {news_day} новостей и {comm_day} комментариев, зарегистрировано {user_day} пользователей || Bugün gün {news_day} makale, {comm_day} yorum ve {user_day} üye sitemize eklendi
+Добавлено <b>{news_month} новостей</b> и <b>{comm_month} комментариев</b>, зарегистрировано <b>{user_month} пользователей || Bugün ay <b>{news_month} makale</b>, <b>{comm_month} yorum</b> ve <b>{user_month} üye</b> sitemize eklendi
+Добавлено <b>{news_week} новостей</b> и <b>{comm_week} комментариев</b>, зарегистрировано <b>{user_week} пользователей || Bugün hafta <b>{news_week} makale</b>, <b>{comm_week} yorum</b> ve <b>{user_week} üye</b> sitemize eklendi
+Добавлено <b>{news_day} новостей</b> и <b>{comm_day} комментариев</b>, зарегистрировано <b>{user_day} пользователей</b> || Bugün gün <b>{news_day} makale</b>, <b>{comm_day} yorum</b> ve <b>{user_day} üye</b> sitemize eklendi
+За месяц || Bu ay
+За неделю || Bu hafta
+За сутки || Bu gün
+Посмотреть последние || Son yorumları göster
+Кол-во комментариев || Toplam yorum sayısı
+Комментарии || Yorumlar
+Из них забанено || Yasaklı
+Общее кол-во пользователей || Toplam üye sayısı
+Зарегистрировано || Toplam üye sayısı
+Ключевые метки сайта || Etiket Bulutu
+Список игнорируемых  пользователей || Yasakladıklarım
+О пользователе || Üye Bilgileri
+Профиль пользователя || Kullanıcı profili
+Основное || Bilgiler
+Показать все опросы || Tüm anketleri göster
+Имя пользователя || Kullanıcı adı
+Пользователи || Üyeler
+Ожидает модерации || Onaylanmış
+Опубликовано на главной || Ana sayfada yayımlanan
+Из них опубликовано || Onay bekleyen
+Общее кол-во новостей || Toplam makale sayısı
+Общее количество новостей || Toplam makale sayısı
+Новости || Makale
+Статистика сайта || Site istatistikleri
+Общий размер базы данных || Veri tabanı boyutu
+Общая статистика по сайту || Sitenin genel istatistikleri
+Опубликовано за месяц || Bu ay kayıt eklenen
+Опубликовано за неделю || Bu hafta kayıt eklenen
+Опубликовано за сутки || Bu gün kayıt eklenen
+Всего комментариев || Toplam yorum sayısı
+просмотреть последние комментарии || Son yorumları göster
+Добавлено за месяц || Bu ay kayıt eklenen
+Добавлено за неделю || Bu hafta kayıt eklenen
+Добавлено за сутки || Bu gün kayıt eklenen
+Зарегистрировано пользователей || Toplam üye sayısı
+Зарегистрировано за месяц || Bu ay kayıt olan
+Зарегистрировано за неделю || Bu hafta kayıt olan
+Зарегистрировано за сутки || Bu gün kayıt olan
+Поиск по сайту || Sitede ara
+Информация || Bilgilendirme
+Категория || Kategori
+Комментариев || Yorumlar
+Просмотров || Gösterim
+посмотрело || Gösterim
+по причине || Nedeni
+Причина || Nedeni
+Подробнее || Devamı
+Новость отредактировал || Makaleyi düzenleyen
+
+Дата || Tarih
+Автор || Yazar
+Редактировать || Düzenle
+Теги || Etiketler
+Информация к новости || Makale hakkında bilgi
+Метки к статье || Etiketler
+автор || Yazar
+Комментарии || Yorumlar
+Комментарий || Yorum
+Прочитать полностью || Devamını oku
+Инопресса || Gündem
+Спорт || Spor
+Криминал || Suç
+Религия || Din
+Культура || Kültür
+Экономика || Ekonomi
+В мире || Dünya
+О сайте || Site hakkında
+Навигация</span> по сайту || Site navigasyonu
+Навигация || Navigasyon
+Все последние новости || Yeni haberler
+Мобильная версия сайта || Mobil versiyon
+Расширенный поиск || Gelişmiş arama
+Поддержка скрипта || Script geliştirici
+Оформление || Skin
+Новости партнеров || Haber partnerimiz
+Популярные статьи || Popüler haberler
+В виде списка || Liste olarak
+В виде календаря || Takvim olarak
+Архив новостей || Haber arşivi
+Подпункт || Alt kategori
+Календарь || Takvim
+Новости</span> партнеров || Haber partnerimiz
+Календарь</span> новостей || Haber</span> takvimi
+Популярные</span> новости || Popüler</span> haberler
+Архив</span> новостей || Haber</span> arşivi
+Регистрация || Kayıt
+Удалить || Sil
+Изменить || Düzenle
+Редактировать новость || Makeleyi Düzenle
+Комментарий || Yorumlar
+Зарегистрировался || Katılım tarihi
+Распечатать || Yazdır
+Категория || Kategori
+Комментариев || Yorumlar
+Просмотров || Gösterim
+посмотрело || Gösterim
+Подробнее || Devamı
+Дата || Tarih
+Автор || Yazar
+Редактировать || Düzenle
+Информация к новости || Makale hakkında bilgi
+Теги || Etiketler
+Комментарии || Yorumlar
+автор || Yazar
+однако информация о Вас является неполной, поэтому заполните дополнительные поля в Вашем профиле. || Fakat hakkınızda daha fazla bilgi sahibi olmamız için ek alanları doldurmalısınız
+Ваш аккаунт был зарегистрирован на нашем сайте, || Sitemizde hesabınız oluşturldu,
+В случае возникновения проблем с регистрацией, обратитесь к <a href="/index.php?do=feedback">администратору</a> сайта || Kayıt ile ilgili sorun yaşarsanız, site yönetimi ile <a href="/index.php?do=feedback">iletişime</a> geçebilirsiniz
+Вы сможете добавлять новости на сайт, оставлять свои комментарии, просматривать скрытый текст и многое другое || Sitemize haber ve yorum ekleyebilir, gizli yazıları görüntüleyebilir ve daha fazlasını yapabilirsiniz
+Регистрация на нашем сайте позволит Вам быть его полноценным участником || Kayıt olmanız sitemizde tam bir katılımcı olmanızı sağlayacaktır
+Здравствуйте, уважаемый посетитель нашего сайта! || Merhaba, sevgili ziyaretçimiz!
+Обновление профиля пользователя || Kullanıcı profili bilgileri
+Регистрация нового пользователя || Yeni kullanıcı kaydı
+Отправить || Gönder
+О себе || Hakkınızda
+Фото || Resminiz
+Номер || Numaranız
+Уважаемый посетитель || Değerli kullanıcımız
+Место жительства || Nereden
+Ваше Имя || Adınız
+Введите два слова, показанных на изображении || Resimde görünen, iki kelimeyi girin
+Введите код<br />с картинки || Resimdeki kodu girin
+Ответ || Cevap
+Вопрос || Soru
+Ваш E-Mail || E-Mail adresiniz
+Повторите пароль || Şifreyi tekrarlayın
+Пароль || Şifre
+Проверить имя || Kontrol et
+Проверить доступность логина для регистрации || Kullanıcı adının uygunluğunu kontrol et
+Логин || Kullanıcı adı
+Подтверждение кода безопасности || Güvenlik kodu doğrulaması
+Код безопасности || Güvenlik kodu
+Введите код || Kodu girin
+Просмотр || Göster
+Отправить || Gönder
+Введите два слова,<br />показанных на изображении || Resimde görünen,<br />iki kelimeyi girin
+Введите два слова, показанных на изображении || Resimde görünen, iki kelimeyi girin
+Введите код<br />с картинки || Resimdeki kodu<br />girin
+Ответ || Cevabınız
+Вопрос || Soru
+Ключевые слова для облака тегов || Etiketler
+Подробная часть || Tam açıklama
+Подробное содержимое || Tam açıklama
+Добавление комментария || Yorum Ekle
+Список игнорируемых  пользователей || Yasakladıklarım
+Необязательно || Zorunlu değil
+Обязательно || Zorunlu
+Вводная часть || Kısa açıklama
+Категория || Kategori
+URL статьи || URL adresi
+Заголовок || Başlık
+Добавить новость || Makale ekle
+Ничего не найдено || Hiçbir şey bulunamadı
+Пользователь offline || Kullanıcı çevrimdışı
+Пользователь Онлайн || Kullanıcı çevrimiçi
+Публикаций || Makaleleri
+Комментариев || Yorumları
+Статус || Durumu
+Регистрация || Kayıt tarihi
+Удалить || Sil
+Изменить || Düzenle
+Жалоба || Bildir
+Спам || Spam
+Группа || Grubu
+Цитата || Alıntı
+Информация к новости || Makale hakkında bilgi
+Цитировать || Alıntı yap
+написал || Yazan
+Отправить || Gönder
+Ответ || Cevabınız
+Вопрос || Soru
+Введите два слова, показанных на изображении || Resimde görünen, iki kelimeyi girin
+Введите код с картинки || Resimdeki kodu girin
+Сообщение || Mesajınız
+Тема || Konu
+Кому || Kime
+Ваш E-Mail || E-Mail adresiniz
+Ваше имя || Adınız
+Обратная связь || İletişim formu
+Введите код || Kodu girin
+Заголовок || Başlık
+Получатель || Alıcı
+<td > || <td>
+Оставить комментарий || Yorum ekle
+Комментарии || Yorumlar
+Мы рекомендуем Вам <a href="/index.php?do=register">зарегистрироваться</a> либо войти на сайт под своим именем || Sayın ziyaretçimiz size <a href="/index.php?do=register">üye ol</a>manızı tavsiye ederiz
+Уважаемый посетитель, Вы зашли на сайт как незарегистрированный пользователь || Sitede kayıtsız olarak olarak gezinmektesiniz
+Вернуться || Geri dön
+Другие новости по теме || Benzer makaleler
+Теги || Etiketler
+Сообщить об ошибке || Makaleyi bildir
+Сообщить о ошибке || Makaleyi bildir
+Категория || Kategori
+Комментариев || Yorumlar
+Просмотров || Gösterim
+посмотрело || Gösterim
+по причине || Nedeni
+Причина || Nedeni
+А также || Benzer
+Опрос || Anket
+Подробнее || Devamı
+Новость отредактировал || Makaleyi düzenleyen
+Дата || Tarih
+Автор || Yazar
+Редактировать || Düzenle
+Изменил || Düzenleyen
+Информация к новости || Makale hakkında bilgi
+Метки к статье || Etiketler
+Наш сайт</span> рекомендует || Önerilen makaleler
+Распечатать || Yazdır
+автор || Yazar
+Ключевые теги || Etiketler
+Добавил || Ekleyen
+Регистрация || Kayıt ol
+Войти || Giriş
+Чужой компьютер || Başka bilgisayar
+Забыли? || Unuttum?
+Пароль || Şifre
+Сообщений || Mesajlarım
+Сообщения || Mesajlarım
+Добавить новость || Makale Ekle
+Статистика || İstatistikler
+Последние комментарии || Son yorumlar
+Непрочитанное || Yeni makaleler
+Мои закладки || Favorilerim
+Мой профиль || Profilim
+Админпанель || Admin Paneli
+Выход || Çıkış
+Вход || Giriş
+Выйти || Çıkış
+Завершить сеанс || Çıkış yap
+Привет || Merhaba
+Логин || Nick
+Запомнить || Hatırlama
+Авторизация || Yetkilendirme
+Вы просматриваете мобильную версию сайта || Şuan sitenin mobil sürümünü görüntülüyorsunuz
+Перейти на полную версию сайта || Sitenin tam sürümünü görüntüleyin
+Забыли пароль || Şifremi unuttum?
+Форма входа || Giriş formu
+Отправить || Gönder
+Введите два слова,<br />показанных на изображении || Resimde görünen,<br />iki kelimeyi girin
+Введите код<br />с картинки || Resimdeki kodu<br />girin
+Введите два слова, показанных на изображении || Resimde görünen,<br />iki kelimeyi girin
+Введите код с картинки || Resimdeki kodu<br />girin
+Восстановить пароль || Kayıp şifre
+Восстановление пароля || Kayıp şifre
+Предыдущая || Önceki
+Следующая || Sonraki
+Читать далее || Devamını oku
+Посмотреть || Göster
+Ваш логин или E-Mail на сайте || Sitede kullandığınız E-Mail adresi
+Восстановление забытого пароля ||
+Ваш логин || Kullanıcı adınız
+Код безопасности || Güvenlik kodu
+Введите код || Kodu girin
+Введите два слова, показанных на изображении || Resimde görünen, iki kelimeyi girin
+Введите код с картинки || Resimdeki kodu girin
+Правила || Kurallar
+Контакты || İletişim
+Регистрация || Kayıt ol
+Главная || Ana sayfa
+Поиск || Ara
+Добавить в избранное || Favorilerime ekle
+Сделать домашней || Ana sayfam yap
+"ru" || "tr"
+Поддержка скрипта || Script geliştirici
+Статистика || İstatistikler
+Новое на сайте || Yeni makaleler
+Добавить новость || Makale ekle
+Главная страница || Ana sayfa
+Текущая версия || Güncel versiyon
+Многопользовательский новостной движок, || Çok kullanıcılı haber motoru,
+предназначенный для организации собственных || kendi için tasarlanmıştır
+СМИ и блогов в интернете || Media ve çevrimiçi bloglar
+просматриваете тестовую страницу || Demo sayfasını görüntüleyen
+Уважаемые вебмастера, Вы || Siz, sevgili yönetici
+на правах рекламы || Reklam
+Мы в Twitter || Twitter
+Мы в vKontakte || vKontakte
+Найти || Bul
+Навигация || Navigasyon
+Облако тегов || Etiket bulutu
+Архив новостей || Haber arşivi
+Экономика || Ekonomi
+В мире || Dünya
+О сайте || Site hakkında
+Спорт || Spor
+Криминал || Suç
+Религия || Din
+Инопресса || Gündem
+Культура || Kültür
+Оформление || Skin
+Наверх || Yukarı
+Описание сайта || Site açıklaması
+Поиск по сайту || Sitede ara
+Вперед || Sonraki
+Назад || Önceki
+Наверх || Yukarı
+"ru" || "tr"
+Сайт временно отключен || Site geçici olarak kapalı
+DataLife Engine - Softnews media group || DataLife Engine - Softnews media group
+Список сообщений || Mesaj listesi
+Сохранить сообщение в папке "Отправленные" || Gönderilenler klasörüne kaydet
+Сообщение || Mesajınız
+Тема || Konu
+Кому || Kime
+Персональные сообщения || Kişisel mesajlar
+Отправка сообщения || Mesaj gönder
+Отправить сообщение || Mesaj gönder
+Отправленные сообщения || Giden kutusu
+Входящие сообщения || Gelen kutusu
+Папки персональных сообщений заполнены на || Mesaj klasörü kullanım yüzdeniz
+Состояние папок || Mesaj klasörü
+Ваши сообщения || Mesajlarınız
+Новое сообщение || Yeni mesaj
+Публикаций || Makaleleri
+Комментариев || Yorumları
+Регистрация || Kayıt tarihi
+Удалить || Sil
+Игнорировать || Engelle
+Пожаловаться || Bildir
+Группа || Grubu
+Ответить || Cevapla
+Просмотр || Gösterim
+Отправить || Gönder
+Ответ || Cevap
+Вопрос || Soru
+Введите два слова, показанных на изображении || Resimde görünen iki kelimeyi giriniz
+Код || Kod
+{proc-pm-limit}% от лимита ({pm-limit} сообщений) || {pm-limit} Mesaj hakkınızın şuan {proc-pm-limit}% kullanılıyor
+Получатель || Alıcı
+Введите код || Kodu girin
+Результаты || Sonuçlar
+Голосовать || Değerlendir
+Всего проголосовало || Toplam değerlendirme
+Категория || Kategori
+Просмотров || Gösterim
+посмотрело || Gösterim
+Вернуться || Geri dön
+Подробнее || Devamı
+Автор || Yazar
+Информация к новости || Makale hakkında bilgi
+Метки к статье || Etiketler
+Редактировать || Düzenle
+Комментариев || Yorumlar
+Теги || Etiketler
+Редактировать || Düzenle
+Версия для печати || Yazdırılabilir versiyon
+DataLife Engine || DataLife Engine
+Вернуться назад || Geri dön
+Главная || Ana Sayfa
+Разместил || Yazar
+Комментариев || Yorumları
+Публикаций || Makaleleri
+Дата регистрации || Kayıt tarihi
+Пользователь offline || Kullanıcı çevrimdışı
+Пользователь Онлайн || Kullanıcı çevrimiçi
+cтатус || Durumu
+Cтатус || Durumu
+Дата посещения || Son ziyareti
+Группа || Grubu
+Полное имя || Tam Adı
+Черный писок || Yasakladıklarım
+Последние новости || Yeni Makaleler
+Раздел || Kategori
+Введите защитный код || Güvenlik kodunu girin
+<br> || <br />
+В случае возникновения проблем с регистрацией, обратитесь к администратору сайта. || Kayıt ile ilgili bir sorun yaşarsanız, site yönetimi ile iletişim kurabilirsiniz
+Краткая новость || Kısa açıklama
+Добавление новостей на сайт || Yeni Makale Ekle
+Восстановление забытого пароля || Kayıp Şifre Formu
+пожаловаться || Bildir
+жалоба || Bildir
+Нашли ошибку? || Bildir
+Отправил || Gönderen
+Список писем || Mesaj listesi
+ответить || Cevapla
+игнорировать || Yasakla
+удалить || Sil
+Готово || Tamam
+Код || Kod
+Зарегистрироваться || Kayıt ol
+Востановить пароль || Şifremi unuttum?
+Если вам понравилась эта новость, не пропустите || Benzer Makaleler
+Ждем Ваших писем! || Bize ulaşın!
+Советуем Вам зарегистрироваться, чтобы быть полноправным юзером нашего сайте. || Sayın ziyaretçimiz size <a href="/index.php?do=register">üye ol</a>manızı tavsiye ederiz.
+спам || Spam
+редактировать || Düzenle
+цитировать || Alıntı yap
+Реклама || Reklamlar
+Текст письма || Mesajınız
+Архив Новостей || Makale Arşivi
+Возможно Вам будут интересны || Benzer Makaleler
+Профиль || Profilim
+Админцентр || Admin Paneli
+Метки || Etiketler
+Ошибка || Bildir
+Добро пожаловать || Hoş geldiniz
+ПС || ÖM
+Создать аккаунт || Kayıt ol
+Закладки || Favorilerim
+Предварительный просмотр || Göster
+Отправка персонального сообщения || Kişisel mesaj gönder
+Далее || Sonraki
+заполнять обязательно || Zorunlu değil
+Ключевые слова<br />для облака тегов || Makale için<br />etiketler
+Публикация новости на сайте || Yeni Makale Ekle
+Рекомендации по оформлению новостей || Makale Ekleme Kuralları
+Ваш текущий IP || Şuanki IP adresiniz
+ИЗМЕНИТЬ || DÜZENLE
+Распечатать документ || Sayfayı yazdır
+Подробные данные о || Kullanıcı hakkında bilgi
+Количество новостей || Makale sayısı
+УДАЛИТЬ || SİL
+в новости || Makalede
+Непрочитаное || Yeni Mesajlar
+Ключевые слова || Etiketler
+Список игнорируемых || Yasakladıklarım
+Похожие новости || Benzer makaleler
+Всего ответов || Toplam Oy Sayısı
+Прочитано || Gösterim
+Здравствуйте || Merhaba
+Опубликовать || Makale Ekle
+Не помню пароль || Şifremi unuttum
+Добавить в закладки || Favorilerime ekle
+поиск по сайту || Sitede ara
+Информация к комментарию || Yorum hakkında bilgi
+
+комментариев || Yorumları
+Похожие статьи || Benzer Makaleler
+вход || Giriş
+регистрация на сайте || Siteye kayıt ol
+изменить || Düzenle
+Написал || Yazan
+Введите заголовок || Başlığı girin
+Панель управления || Düzenleme paneli
+работ с содержимым новости || Makaleyi düzenleyebilirsiniz
+Краткое содержание || Kısa açıklama
+Полная новость || Tam açıklama
+обязательно || Zorunlu
+для поисковых роботов || Maximum 5 adet girin
+раздел сайта || İçerik kategorisi
+
+Ваш сложный пароль || Şifreniz
+Еще разок, чтобы не забыть || Şifrenizi tekrarlayın
+электронная почта для связи || İletişim için kullandığınız mail adresi
+Докажите, что Вы не робот || Güvenlik kodu doğrulaması
+Настоящее имя || Adınız
+Откуда Вы? || Nerede yaşıyorsunuz?
+Ваша фотография или аватарка || Fotoğrafınız ya da avatarınız
+Что Вы за человек? || Hakkınızda
+Кабинет || Panel
+Из них на главной || Anasayfada
+На модерации || Moderasyonda
+последние || Son yorumlar
+Десятка лучших авторов на сайте || Aktif kullanıcılar
+Анонс || Duyuru
+Показать все || Tümünü göster
+У нас читают || Teknoloji
+Видео || Video
+Архивы || Arşiv
+Музыка || Müzikler
+Фильмы || Filmler
+Журналы || E-Kitaplar
+Игры || Oyunlar
+Статьи || Makaleler
+наберите Ваш запрос и нажмите enter || arama yapmak için yazıyı girin ve enter a basın
+Опубликовано || Paylaşan
+Ваш аватар || Avatarınız
+Все ключевые слова || Tüm Etiketler
+Новостей || Makaleleri
+Написать сообщение || Yeni mesaj gönder
+Отправленные || Gönderilenler
+Ваш почтовый ящик забит на || Mesaj klasörü kullanım yüzdeniz
+на {proc-pm-limit}% или ({pm-limit} сообщений) || {pm-limit} Mesaj hakkınızın şuan {proc-pm-limit}% kullanılıyor
+Ваше ФИО || Adınız ve Soyadınız
+В случае возникновения проблем с регистрацией, обратитесь к <a href="/index.php?do=feedback">администратору</a>. || Kayıt ile ilgili sorun yaşarsanız, site yönetimi ile <a href="/index.php?do=feedback">iletişime</a> geçebilirsiniz.
+Общая статистика сайта || Site İstatistikleri
+введите ключевое слово || Aranacak kelimeyi girin
+Введите числа на изображении || Resimdeki kodu girin
+Добавлено || Ekleme tarihi
+Форма восстановления пароля || Kayıp şifre formu
+Ваш E-mail || E-mail Adresiniz
+Панель профиля || Kullanıcı Paneli
+Покинуть профиль || Çıkış Yap
+Стать пользователем || Kayıt Ol
+Восстановить старый пароль || Şifremi Hatırlat
+Ваш пароль || Şifreniz
+Разрешить выбор нескольких вариантов || Çoklu seçime izin ver
+лицензия || Lisans
+дата || Tarih
+Панель || Panel
+Кино || Filmler
+Обои || Grafikler
+Софт || Programlar
+Тексты || Dökümanlar
+Жанры || Türler
+Категории || Kategoriler
+Карта сайта || Site haritası
+Аудио || Müzik
+Программы (СОФТ) || Programlar
+Разработка || Yapımcı
+отправить || Gönder
+просмотр || Göster
+Cмотреть все || Tümünü göster
+Ваша фотография ya da аватарка || Fotoğrafınız ya da avatarınız
+Варианты ответов || Cevaplar
+Каждая новая строка является новым вариантом ответа || Her satıra bir cevap gelecek şekilde yazın
+работа с содержимым новости || Makaleyi düzenleyebilirsiniz
+Докажите, что Вы не робот || Güvenlik kodu doğrulaması
+для поисковых роботов || Maximum 5 adet girin
+работа с содержимым новости || Makaleyi düzenleyebilirsiniz
+Ваша фотография ya da аватарка || Fotoğrafınız ya da avatarınız
+отправить || Gönder
+просмотр || Göster
+напишите правильный ответ || Güvenlik Sorusu
+от редактирования || Düzenleme tarihi
+Скриншоты || Ekran görüntüleri
+Скачать || Kaydet
+Размещено || Eklenme Tarihi
+
+Hatırlama меня || Beni hatırlama
+За Son yorumlar 24 часа || Son 24 saatte yapılan yorumlar
+Yorumları пока еще нет. Вы можете стать первым || Henüz hiç yorum yapılmamış
+Gösterов || Gösterim
+Girişящие || Gelen Kutusu
+Konu сообщения || Mesaj konusu
+Десятка лучших Yazarов на сайте || Aktif kullanıcılar
+Adınız на сайте, никнейм || Sitedeki adınız, nickiniz
+Ekle в закладки || Favorilerime ekle
+Şifremi unuttum?? || Şifremi unuttum?
+Düzenle новость || Makeleyi Düzenle
+Yorumları за месяц || Yorumları
+Yorumları за неделю || Yorumları
+Yorumları за сутки || Yorumları
+Sonuçlar опроса || Anket sonuçları
+Sonuçlar голосования || Anket sonuçları
+Ekle комментарий || Yorum ekle
+Kodu girin<br />с картинки || Resimdeki<br />kodu girin
+Kodu girin<br>с картинки || Resimdeki<br />kodu girin
+Kodu girin с картинки || Resimdeki kodu girin
+Makale ekle на сайт || Siteye makale ekle
+Giriş на сайт || Giriş Yap
+Giriş в панель управления || Giriş Paneli
+Выполнить Giriş на сайт || Giriş Yap
+Kayıt tarihi || Kayıt ol
+Kayıt tarihi на сайте || Siteye kayıt ol
+Панель пользователя || Kullanıcı paneli
+Не запоминать || Hatırlama
+восстановить пароль || Şifremi unuttum
+Başlık опроса || Anket başlığı
+Ekle опрос || Anket ekle
+Анимация || Animasyon
+Боевик || Gerilim
+Вестерн || Batı
+Военный || Askeri
+Детектив || Dedektif
+Документальный || Belgesel
+Драма || Drama
+Исторический || Tarihsel
+Комедия || Komedi
+Мелодрама || Melodram
+Мистика || Mistisizm
+Мультфильм || Karikatür
+Мюзикл || Müzikal
+Отечественный || Yerli
+Пародия || Parodi
+Приключения || Macera
+Семейный || Aile
+Триллер || Gerilim
+Ужасы || Korku
+Фантастика || Fantezi
+Загрузить с компьютера || Bilgisayardan yükle
+Часовой пояс || Saat Dilimi
+192.48.25.71 или 129.42.*.* || 192.48.25.71 veya 129.42.*.*
+{author} от || {author}, Tarih:
+[declination={comm-num}]комментари|й|я|ев[/declination] || Yorumları: {comm-num}
+[declination={news-num}]публикаци|я|и|й[/declination] || Makaleleri: {news-num}
+Извините, но невозможно записать информацию в файл || Üzgünüz, Dosyaya yazma yetkisi yok
+Извините, но невозможно создать файл || Üzgünüz, Dosyaya oluşturma yetkisi yok
+Проверьте правильность проставленного CHMOD! || CHMOD değerini kontol edin!
+cp1251_general_ci || utf8_general_ci
+cp1251 || utf8
+Обновление базы данных с версии || Veritabanı sürüm yükseltme
+Информация || Bilgilendirme
+успешно завершено. || versiyonuna başarıyla gerçekleştirildi.
+Нажмите далее для продолжения процессa обновления скрипта || Güncelleme işlemine devam etmek için ileriye tıklayın
+до версии || versiyonundan
+Далее || İleri
+Всего запланировано запросов: || Toplam sorgu sayısı:
+Неудалось выполнить запросов: || Başarısız sorgu sayısı:
+Возможно они уже выполнены ранее. || Belki bu sorguları daha önce gerçekleştirdiniz.
+Список не выполненных запросов || Çalıştırılamayan sorgular
+Внимание: В целях безопасности мы рекомендуем переименовать файл || Not: Güvenlik amacıyla bu dosyanın adını değiştirmenizi öneririz
+cron.php в любое другое название с расширением PHP || cron.php yi farklı bir isimle, PHP uzantısı ile değiştiriniz
+Для работы запуска операций по расписанию необходима поддержка вашим || İşlemi yapabilmeniz için gerekli desteğin olması gerekir
+хостингом запуска приложений с использованием Cron более подробную || Cron uygulmasının olup olmadığı ve nasıl çalıştırılacağı
+информацию о том как использовать данную функцию вы можете || hakkında ki bilgiyi hosting sağlayıcınızdan edinebilirsiniz.
+Файл крона может выполнять следующие операции: || Kron dosyası ile aşağıdaki işlemleri yapabilirsiniz
+1. Созданание резервной копии базы данный. Для запуска данного режима || 1. Veritabanı yedeklemesini çalıştırmak için
+просто запустите файл cron.php без указания ему параметров || parametre belirtmeden sadece cron.php dosyasını çalıştırın
+2. Создание карты сайты сайта. Для запуска данного режима || 2. Site haritası oluşturmak için
+запустите файл с параметром cron.php?cronmode=sitemap || dosyayı bu parametre ile birlikte çalıştırın cron.php?cronmode=sitemap
+если используется консольный запуск скрипта, то используйте php -f cron.php sitemap || eğer konsol betiği olarak kullanmak isterseniz, php-f cron.php sitemap
+3. Оптимизация базы данных. Для запуска данного режима || 3. Veritabanı optimizasyonu yapmak için
+запустите файл с параметром cron.php?cronmode=optimize || dosyayı bu parametre ile birlikte çalıştırın cron.php?cronmode=optimize
+если используется консольный запуск скрипта, то используйте php -f cron.php optimize || eğer konsol betiği olarak kullanmak isterseniz, php-f cron.php optimize
+4. Запуск антивируса. Для запуска данного режима || Antivirüs sistemini çalıştırmak için
+запустите файл с параметром cron.php?cronmode=antivirus || dosyayı bu parametre ile birlikte çalıştırın cron.php?cronmode=antivirus
+если используется консольный запуск скрипта, то используйте php -f cron.php antivirus || eğer konsol betiği olarak kullanmak isterseniz, php-f cron.php antivirus
+Для включения поддержки запуска операций по крону вы должны || Bu desteği etkinleştirmek için
+поставить значение 1 для переменной $allow_cron || $allow_cron değişkeninin değerinin 1 olması gereklidir
+Укажите какое количество файлов с резервной копией БД || Sunucunuzda en fazla kaç adet veritabanının
+хранить на сервере || saklanacağını girin
+Не редактируйте код который следует ниже. || Aşağıdaki kodları düzenlemeyin
+Вы должны принять лицензионное соглашение, прежде чем продолжите установку. || Kuruluma devam etmeden önce Lisans Koşullarını kabul etmeniz gerekiyor.
+Лицензионное соглашение || Lisans Koşulları
+Пожалуйста, внимательно прочитайте и примите пользовательское соглашение по использованию DataLife Engine || Lütfen, DataLife Engine Lisans Koşullarını Dikkatli Okuyun
+Лицензионное соглашение конечного пользователя || Kullanıcı Lisans Anlaşması
+Предмет лицензионного соглашения || Lisans Anlaşmasının Konusu
+Я принимаю данное соглашение || Anlaşmayı Kabul Ediyorum
+Продолжить >> || Devam >>
+Продолжить || Devam
+Установка скрипта была начата не с начала. Вернитесь на главную страницу начала установки скрипта: || Sistem kurulumunu baştan yapmak için ana sayfaya dönün ve kurulumu yeniden başlatın:
+Проверка установленных компонентов PHP || Yüklü PHP Bileşenleri
+Минимальные требования скрипта || Minimum Gereksinimler
+Текущее значение || Mevcut Değer
+Версия PHP 5.1 и выше || PHP 5.1 Sürümü ve Üzeri
+Поддержка MySQLi || MySQLi Desteği
+Поддержка MySQL || MySQL Desteği
+Поддержка сжатия ZLib || Zlib Sıkıştırma Desteği
+Поддержка XML || XML Desteği
+Поддержка iconv || iconv Desteği
+Если любой из этих пунктов выделен красным, то пожалуйста выполните действия для исправления положения. В случае несоблюдения минимальных требований скрипта возможна его некорректная работа в системе. || Bu değerlerden herhangi biri kırmızı olarak görünüyorsa, durumu düzeltmek için şu adımları takip edin. Durumlarda betiğin minimum gereksinimleri, sistem içinde yanlış çalışmaya neden olabilir.
+Рекомендуемые настройки || Önerilen Ayarlar
+Рекомендуемое значение || Tavsiye Edilen Değer
+Загрузка файлов || Dosya Yükleme
+Буферизация вывода || Çıktı Tamponlama
+Данные настройки являются рекомендуемыми для полной совместимости, однако скрипт способен работать даже если рекомендуемые настройки несовпадают с текущими. || Bu ayarlar, tam uyumluluk için tavsiye edilen ayarlardır, ancak ayarlar uyuşmuyor olsa bile scripti çalıştırabilirsiniz.
+Проверка на запись у важных файлов системы || Önemli Sistem Dosyaları Denetimi
+Папка/Файл || Klasör/Dosya
+Проверка успешно завершена! Можете продолжить установку || Dosya doğrulaması başarıyla tamamlandı. Kuruluma devam edilebilir!
+Внимание!!! || Dikkat!!!
+Во время проверки обнаружены ошибки: || Kontrol esnasında bazı hatalar tespit edildi:
+Запрещена запись в файл.<br />Вы должны выставить для папок CHMOD 777, для файлов CHMOD 666, используя ФТП-клиент. || Dosyaya erişim engelli.<br />Herhangi bir FTP programı aracılığıyla CHMOD 666 olan dosyaları ve klasörleri CHMOD 777 olarak değiştiriniz.
+<font color=red><b>Настоятельно не рекомендуется</b></font> продолжать установку, пока не будут произведены изменения. || Değişiklik yapılana dek kuruluma devam etmeniz <font color=red><b>Kesinlikle Önerilmez</b></font>.
+Файлы не найдены! || Dosya Bulunamadı!
+<font color=red><b>Не рекомендуется</b></font> продолжать установку, пока не будут произведены изменения. || Değişiklik yapılana dek kuruluma devam etmeniz <font color=red><b>Önerilmez</b></font>.
+Настройка конфигурации системы || Sistem Yapılandırma
+URL сайта || Site URL\'i
+Укажите путь без имени файла, знак слеша || Belirtilen dosya yolu sonuna,
+на конце обязателен || eklemeniz zorunludur
+Данные для доступа к MySQL серверу || MySQL Sunucusu Erişim Bilgileri
+Сервер MySQL || MySQL Sunucusu
+Имя базы данных || Veritabanı Adı
+Имя пользователя || Kullanıcı Adı
+Повторите пароль: || Şifreyi Tekrar Girin:
+Кодировка для MySQL || MySQL Kodlaması
+Данные для доступа к панели управления || Yönetim Paneli İçin Giriş Bilgileri
+Не изменяйте параметр, если не знаете для чего он предназначен || Ne olduğunu bilmiyorsanız, lütfen bu ayarı değiştirmeyiniz
+Имя администратора || Yönetici Adı
+<b>не</b> забудьте пароль! || Şifrenizi <b>unutmayın</b>!
+Дополнительные настройки || Ek Ayarlar
+Включить поддержку ЧПУ || Rewrite Desteği
+Eсли вы отключите поддержку ЧПУ, то не забудьте удалить файл .htaccess в корневой папке || SEO Desteğini aktifleştirmek veya pasifleştirmek için <b>.htaccess</b> dosyası ana dizinde olmalıdır, sunucunuz <i><b>rewrite</b></i> özelliğini desteklemiyorsa Hayır olarak seçim yapın.
+Заполните необходимые поля! || Gerekli alanları doldurun!
+Введенное имя администратора недопустимо к регистрации || Kayıt için bu yönetici adı kabul edilemez!
+Демонстрационная страница движка DataLife Engine || Demo DataLife Engine Sayfası
+Демонстрационный сайт || Demo Site
+Сайт находится на текущей реконструкции, после завершения всех работ сайт будет открыт.<br /><br />Приносим вам свои извинения за доставленные неудобства. || Sitedeki tüm çalışmalar tamamlanınca açılacaktır, Şuanda güncelleme yapılmaktadır.<br /><br />Rahatsızlık verdiğimiz için özür dileriz.
+Извините, но невозможно создать файл || Üzgünüz, ama dosya oluşturamazsınız
+Проверьте правильность проставленного CHMOD! || CHMOD Ayarlarını kontrol edin!
+Установка успешно завершена || Kurulum Başarıyla Tamamlandı
+Поздравляем Вас, DataLife Engine был успешно установлен на Ваш сервер. Вы можете просмотреть теперь главную <a href="index.php">страницу вашего сайта</a>  и посмотреть возможности скрипта. Либо Вы можете <a href="admin.php">зайти</a> в панель управления DataLife Engine и изменить другие настройки системы. || Tebrik ederiz, DataLife Engine başarıyla sunucuya yüklenmiştir. Artık <a href="index.php">sitenizin ana sayfası</a>na giderek makale eklemeye başlayabilirsiniz. Kontrolü ve diğer sistem ayarlarını değiştirmek için <a href="admin.php">DataLife Engine Yönetici Paneli</a>ne gidebilirsiniz.
+Внимание: при установки скрипта создается структура базы данных, создается аккаунт администратора, а также прописываются основные настройки системы, поэтому после успешной установки удалите файл <b>install.php</b> во избежание повторной установки скрипта! || Dikkat: Kurulum dosyası bir veritabanı yapısı ve bir yönetici hesabı oluşturmaktadır. Başarılı bir kurulumdan sonra yeniden çalıştırılması kayıplara neden olabilmektedir. Güvenliğiniz amaçlı <b>install.php</b> dosyasını hemen sunucunuzdan silin!
+Приятной Вам работы || Keyfini çıkarın
+Установка скрипта автоматически заблокирована || Kurulum işlemi otomatik olarak kilitlendi
+Внимание, на сервере обнаружена уже установленная копия DataLife Engine. Если вы хотите еще раз произвести установку скрипта, то вам необходимо вручную удалить файл <b>/engine/поta/config.php</b>, используя FTP протокол. || Dikkat! sistem, sunucuda DataLife Engine'ın Kurulu oluğunu tespit etti. Eğer kuruluma devam etmek istiyorsanız, FTP' den <b>/engine/data/config.php</b>, dizinine ulaşarak <b>config.php</b> dosyasını silmeniz gerekmektedir.
+Состояние проверки || Doğrulama Durumu
+Мастер установки скрипта || Script Yükleme Sihirbazı
+Мастер установки || Yükleme Sihirbazı
+Мастер установки DataLife Engine || DataLife Engine Yükleme Sihirbazı
+Добро пожаловать в мастер установки DataLife Engine. Данный мастер поможет вам установить скрипт всего за пару минут. Однако, не смотря на это, мы настоятельно рекомендуем Вам ознакомиться с документацией по работе с движком, а также по его установке, которая поставляется вместе со скриптом. || DataLife Engine kurulum sihirbazına hoş geldiniz. Bu sihirbaz sadece birkaç dakika içinde sistemi yüklemenize yardımcı olacaktır. Ancak, sistemi kurmadan önce scriptin ve dosyaların, çalışması hakkında gerekli dökümanları okumanızı şiddetle öneririz.
+Прежде чем начать установку убедитесь, что все файлы дистрибутива загружены на сервер, а также выставлены необходимые права доступа для папок и файлов. || Kurulumdan önce, tüm sistem dosyalarının sunucuya yüklenmiş olduğundan, ayrıca dosya ve klasörler için gerekli erişim haklarını vermiş olduğunuza emin olun.
+Обращаем Ваше внимание на то, что движок поддерживает работу с ЧПУ, а для этого необходимо, чтобы был установлен модуль <b>modrewrite</b> и его использование было разрешено. Eсли вы хотите отключить эту возможность, то удалите файл <b>.htaccess</b> в корневой папке и в процессе установки скрипта отключите поддержку этой функции. || Sistem SEO desteklidir, kullanabilmeniz için <b>modrewrite</b> modülünün sunucuda yüklü olması gerekir, Eğer modül yüklü değil ise, SEO fonksiyonunu devre dışı bırakmak için <b>.htaccess</b> dosyasını ana dizinden silin.
+<font color="red">Внимание: при установке скрипта создается структура базы данных, создается аккаунт администратора, а также прописываются основные настройки системы, поэтому после успешной установки удалите файл <b>install.php</b> во избежание повторной установки скрипта! || <font color="red">Dikkat: Kurulum dosyası bir veritabanı yapısı ve bir yönetici hesabı oluşturmaktadır. Başarılı bir kurulumdan sonra yeniden çalıştırılması kayıplara neden olabilmektedir. Güvenliğiniz amaçlı kurulumdan sonra <b>install.php</b> dosyasını sunucunuzdan silin!</font>
+Приятной Вам работы, || Şimdi işin keyfini çıkarın,
+Начать установку || Kurulumu Başlat
+Новости с Яндекса || Yandex Haberleri
+news.yandex.ru || news.yandex.com.tr
+Официальный сайт DataLife Engine || DataLife Engine Resmi Sitesi
+Верхний баннер || Üst Banner
+{%username%},\r\n\r\nЭто письмо отправлено с сайта $url\r\n\r\nВы получили это письмо, так как этот e-mail адрес был использован при регистрации на сайте. Если Вы не регистрировались на этом сайте, просто проигнорируйте это письмо и удалите его. Вы больше не получите такого письма.\r\n\r\n------------------------------------------------\r\nВаш логин и пароль на сайте:\r\n------------------------------------------------\r\n\r\nЛогин: {%username%}\r\nПароль: {%password%}\r\n\r\n------------------------------------------------\r\nИнструкция по активации\r\n------------------------------------------------\r\n\r\nБлагодарим Вас за регистрацию.\r\nМы требуем от Вас подтверждения Вашей регистрации, для проверки того, что введённый Вами e-mail адрес - реальный. Это требуется для защиты от нежелательных злоупотреблений и спама.\r\n\r\nДля активации Вашего аккаунта, зайдите по следующей ссылке:\r\n\r\n{%valiпоtionlink%}\r\n\r\nЕсли и при этих действиях ничего не получилось, возможно Ваш аккаунт удалён. В этом случае, обратитесь к Администратору, для разрешения проблемы.\r\n\r\nС уважением,\r\n\r\nАдминистрация $url. || {%username%},\r\n\r\nBu mesaj $url sitesinden gönderildi\r\n\r\nBu e-posta yı sitemizde kaydınız olduğu için alıyorsunuz. Sitede kayıtlı olmadığınızı düşünüyorsanız bu mesajı görmezden gelerek silebilirsiniz. Bir daha böyle bir mesaj almayacaksınız.\r\n\r\n------------------------------------------------\r\nSitedeki Kullanıcı Adı ve Şifreniz:\r\n------------------------------------------------\r\n\r\nKullanıcı Adı: {%username%}\r\nŞifre: {%password%}\r\n\r\n------------------------------------------------\r\nAktifleştirme Bilgisi\r\n------------------------------------------------\r\n\r\nÖncelikle sitemize kayıt olduğunuz için teşekkür ediyoruz.\r\nKaydınızı onaylamak için gerçek bir mail hesabı kullandığınız onaylandı. Bu işlem istnemeyen (spam) gönderileri engellemek içindir.\r\n\r\nKaydınızı onaylamak için aşağıdaki linke tıklayın :\r\n\r\n{%validationlink%}\r\n\r\nEğer link çalışmazsa hesabınız silinmiş demektir.Bunun için site yönetimi ile iletişime geçmelisiniz.\r\n\r\nSaygılarla,\r\n\r\n$url Yönetimi.
+{%username_to%},\r\n\r\nДанное письмо вам отправил {%username_from%} с сайта $url\r\n\r\n------------------------------------------------\r\nТекст сообщения\r\n------------------------------------------------\r\n\r\n{%text%}\r\n\r\nIP адрес отправителя: {%ip%}\r\n\r\n------------------------------------------------\r\nПомните, что администрация сайта не несет ответственности за содержание данного письма\r\n\r\nС уважением,\r\n\r\nАдминистрация $url || {%username_to%},\r\n\r\n{%username_from%} tarafından $url sitesinden gelen mesaj.\r\n\r\n------------------------------------------------\r\nMetin Mesajları\r\n------------------------------------------------\r\n\r\n{%text%}\r\n\r\nGönderenin IP Adresi: {%ip%}\r\n\r\n------------------------------------------------\r\nHatırlatırız, site bu mesajın içeriğinden ve gönderenden sorumlu değildir.\r\n\r\nSaygılarımızla,\r\n\r\n$url Yönetimi
+Уважаемый {%username%},\r\n\r\nВы сделали запрос на получение забытого пароля на сайте $url Однако в целях безопасности все пароли хранятся в зашифрованном виде, поэтому мы не можем сообщить вам ваш старый пароль, поэтому если вы хотите сгенерировать новый пароль, зайдите по следующей ссылке: \r\n\r\n{%lostlink%}\r\n\r\nЕсли вы не делали запроса для получения пароля, то просто удалите данное письмо, ваш пароль храниться в надежном месте, и недоступен посторонним лицам.\r\n\r\nIP адрес отправителя: {%ip%}\r\n\r\nС уважением,\r\n\r\nАдминистрация $url || Sayın {%username%},\r\n\r\nYeni bir şifre oluşturmak için talepte bulundunuz, Ancak şifreler sistemimizde kodlanmış olarak saklanmaktadır. Şifrenizi unuttuysanız $url adresini ziyaret ederek yönetimle irtibata geçebilir veya aşağıdaki bağlantıyı ziyaret edebilirsiniz: \r\n\r\n{%lostlink%}\r\n\r\nEğer bir şifre talebinde bulunmadıysanız bu mesajı silin, şifreniz değiştirilmeyecek ve güvenli bir yerde başkalarının ulaşamayacağı şekilde saklanmaya devam edecektir.\r\n\r\nGönderenin IP Adresi: {%ip%}\r\n\r\nSaygılarımızla,\r\n\r\n$url Yönetimi
+Уважаемый администратор,\r\n\r\nуведомляем вас о том, что на сайт  $url была добавлена новость, которая в данный момент ожидает модерации.\r\n\r\n------------------------------------------------\r\nКраткая информация о новости\r\n------------------------------------------------\r\n\r\nАвтор: {%username%}\r\nЗаголовок новости: {%title%}\r\nКатегория: {%category%}\r\nДата добавления: {%поte%}\r\n\r\nС уважением,\r\n\r\nАдминистрация $url || Sayın Yönetici,\r\n\r\nSiteye yeni makale eklendi ve onay bekliyor. Takip ve işlemler için $url adresini ziyaret ediniz.\r\n\r\n------------------------------------------------\r\nMakale Özeti\r\n------------------------------------------------\r\n\r\nYazan: {%username%}\r\nMakale Başlığı: {%title%}\r\nKategorisi: {%category%}\r\nTarih: {%date%}\r\n\r\nSaygılarımızla,\r\n\r\n$url Yönetimi
+Уважаемый {%username_to%},\r\n\r\nуведомляем вас о том, что на сайт  $url был добавлен комментарий к новости, на которую вы были подписаны.\r\n\r\n------------------------------------------------\r\nКраткая информация о комментарии\r\n------------------------------------------------\r\n\r\nАвтор: {%username%}\r\nДата добавления: {%поte%}\r\nСсылка на новость: {%link%}\r\n\r\n------------------------------------------------\r\nТекст комментария\r\n------------------------------------------------\r\n\r\n{%text%}\r\n\r\n------------------------------------------------\r\n\r\nЕсли вы не хотите больше получать уведомлений о новых комментариях к данной новости, то проследуйте по данной ссылке: {%unsubscribe%}\r\n\r\nС уважением,\r\n\r\nАдминистрация $url || Sayın {%username_to%},\r\n\r\nSiteye yeni yorum eklendi. $url adresinden hangi makaleye yorum eklendiğini takip edebilirsiniz. Bu mesaj bilgilendirmek amaçlı göndeirlmiştir.\r\n\r\n------------------------------------------------\r\nMakaleye Yapılan Yorumun Özeti\r\n------------------------------------------------\r\n\r\nYazan: {%username%}\r\nTarih: {%date%}\r\nMakale Adresi: {%link%}\r\n\r\n------------------------------------------------\r\nYorum Metni\r\n------------------------------------------------\r\n\r\n{%text%}\r\n\r\n------------------------------------------------\r\n\r\nBu makaleye yorum eklendiğinde bildirim almak istemiyorsanız, lütfen bağlantıyı takip edin: {%unsubscribe%}\r\n\r\nSaygılarımızla,\r\n\r\n$url Yönetimi
+Уважаемый {%username%},\r\n\r\nуведомляем вас о том, что на сайте  $url вам было отправлено персональное сообщение.\r\n\r\n------------------------------------------------\r\nКраткая информация о сообщении\r\n------------------------------------------------\r\n\r\nОтправитель: {%fromusername%}\r\nДата  получения: {%поte%}\r\nЗаголовок: {%title%}\r\n\r\n------------------------------------------------\r\nТекст сообщения\r\n------------------------------------------------\r\n\r\n{%text%}\r\n\r\nС уважением,\r\n\r\nАдминистрация $url || Sayın {%username%},\r\n\r\n$url Sitesinden size kişisel mesaj gönderildi.\r\n\r\n------------------------------------------------\r\nMesaj Bilgisi\r\n------------------------------------------------\r\n\r\nGönderen: {%fromusername%}\r\nTarih: {%date%}\r\nBaşlık: {%title%}\r\n\r\n------------------------------------------------\r\nMesaj Metni\r\n------------------------------------------------\r\n\r\n{%text%}\r\n\r\nSaygılarımızla,\r\n\r\n$url Yönetimi
+Информация || Bilgilendirme
+Приобретение и оплата скрипта || Scripti Satın Alma ve Ödeme
+Шаблоны для DataLife Engine || DataLife Engine için Şablonlar
+Осуществление технической поддержки скрипта || Teknik Destek Hizmeti
+Добро пожаловать на демонстрационную страницу движка DataLife Engine. DataLife Engine это многопользовательский новостной движок, обладающий большими функциональными возможностями. Движок предназначен в первую очередь для создание новостных блогов и сайтов с большим информационным контекстом. Однако он имеет большое количество настроек, которые позволяют использовать его практически для любых целей. Движок может быть интегрирован практически в любой существующий дизайн, и не имеет никаких ограничений по созданию шаблонов для него. Еще одной ключевой особенностью DataLife Engine является низкая нагрузка на системные ресурсы, Даже при очень большой аудитории сайта нагрузка не сервер будет минимальной, и вы не будете испытывать каких-либо проблем с отображением информации. Движок оптимизирован под поисковые системы. Обо всех функциональных особенностях вы сможете прочитать на <a href=\"http://dle-news.ru/\" target=\"_blank\">нашей странице</a>.<br /><br />Обсуждение скрипта по всем вопросам ведется <a href=\"http://forum.dle-news.ru/index.php\" target=\"_blank\">здесь</a>. Так же там Вы сможете получить оперативную помощь. || DataLife Engine demo sayfasına hoş geldiniz.DataLife Engine çok kullanıcılı bir haber motorudur, bir çok özelliğe sahiptir.Sistem öncelikli olarak haber ve blog siteleri oluşturmak için tasarlanmıştır.Ancak hemen hemen her amaç için kullanabileceğiniz ayarlamalara izin verir.Sistem için mevcut tasarımınızı kolayca entegre edebilirsiniz, şablon oluşturma işleminde hiçbir kısıtlama yoktur.DataLife Engine\'in temel özelliği ise minimum miktarda sunucuya yük bindirmesidir, eğer siteniz büyük bir kitleye hitap ediyorsa, sistem kaynaklarını az kullandığı için sitenize erişim sıkıntısı çekmezsiniz<br />Sistem arama motorları için optimize edilmiştir.Tüm fonksiyonel özellikleri hakkında bilgiyi bu <a href=\"http://dle-news.ru/\" target=\"_blank\">sayfadan</a> okuyabilirsiniz.<br /><br />Sistem hakkında her türlü tartışma katılıp, teknik desteği <a href=\"http://forum.dle-news.ru/index.php\" target=\"_blank\">buradan</a> almak mümkündür.
+Добро пожаловать || Hoş geldiniz
+Общие правила на сайте || Site Kuralları
+Общие правила поведения на сайте || Genel Site Kuralları
+Начнем с того, что на сайте общаются сотни людей, разных религий и взглядов, и все они являются полноправными посетителями нашего сайта, поэтому если мы хотим чтобы это сообщество людей функционировало нам и необходимы правила. Мы настоятельно рекомендуем прочитать настоящие правила, это займет у вас всего минут пять, но сбережет нам и вам время и поможет сделать сайт более интересным и организованным.<br /><br />Начнем с того, что на нашем сайте нужно вести себя уважительно ко всем посетителям сайта. Не надо оскорблений по отношению к участникам, это всегда лишнее. Если есть претензии - обращайтесь к Админам или Модераторам (воспользуйтесь личными сообщениями). Оскорбление других посетителей считается у нас одним из самых тяжких нарушений и строго наказывается администрацией. <b>У нас строго запрещен расизм, религиозные и политические высказывания.</b> Заранее благодарим вас за понимание и за желание сделать наш сайт более вежливым и дружелюбным.<br /><br /><b>На сайте строго запрещено:</b> <br /><br />- сообщения, не относящиеся к содержанию статьи или к контексту обсуждения<br />- оскорбление и угрозы в адрес посетителей сайта<br />- в комментариях запрещаются выражения, содержащие ненормативную лексику, унижающие человеческое достоинство, разжигающие межнациональную рознь<br />- спам, а также реклама любых товаров и услуг, иных ресурсов, СМИ или событий, не относящихся к контексту обсуждения статьи<br /><br />Давайте будем уважать друг друга и сайт, на который Вы и другие читатели приходят пообщаться и высказать свои мысли. Администрация сайта оставляет за собой право удалять комментарии или часть комментариев, если они не соответствуют данным требованиям.<br /><br />При нарушении правил вам может быть дано <b>предупреждение</b>. В некоторых случаях может быть дан бан <b>без предупреждений</b>. По вопросам снятия бана писать администратору.<br /><br /><b>Оскорбление</b> администраторов или модераторов также караются <b>баном</b> - уважайте чужой труд. || Site Kuralları
+Оцените работу движка || Sitemizi değerlendirin
+Лучший из новостных || Çok güzel bir site
+Неплохой движок || İyi bir site
+Устраивает ... но ... || İyi ...ama...
+Встречал и получше || İyi olabilir
+Совсем не понравился || Hoşlanmadım
+новости || haber
+шаблоны || sablon
+Нет || Hayır
+Да || Evet
+Включено || Aktif
+Выключено || Pasif
+Статус || Durum
+не найден || Bulunamadı
+разрешено || Yazılabilir
+запрещено || Yazılamaz
+Ошибка!!! || Hata!!!
+Пароль: || Şifre:
+Префикс || Tablo Öneki
+Russian || Turkish
+"Ошибка" || "Hata"
+Администраторы || Yönetici
+Главные редакторы || Genel Editör
+Журналисты || Editör
+Посетители || Üye
+Гости || Ziyaretçi
+Обновить || Yenile
+Общие правила || Genel Kurallar
+движок || Engine
+Добро пожаловать в мастер установки DataLife Engine. Данный мастер поможет вам установить скрипт всего за несколько минут. Однако, не смотря на это, мы настоятельно рекомендуем Вам ознакомиться с документацией по работе со скриптом, а также по его установке, которая поставляется вместе со скриптом. || DataLife Engine kurulum sihirbazına hoş geldiniz. Bu sihirbaz sadece birkaç dakika içinde sistemi yüklemenize yardımcı olacaktır. Ancak, sistemi kurmadan önce scriptin ve dosyaların, çalışması hakkında gerekli dökümanları okumanızı şiddetle öneririz.
+Прежде чем начать установку убедитесь, что все файлы дистрибутива загружены на сервер, а также выставлены необходимые права доступа для папок и файлов. || Kurulumdan önce, tüm sistem dosyalarının sunucuya yüklenmiş olduğundan, ayrıca dosya ve klasörler için gerekli erişim haklarını vermiş olduğunuza emin olun.
+Обращаем Ваше внимание на то, что DataLife Engine поддерживает работу с ЧПУ, а для этого необходимо, чтобы был установлен модуль <b>modrewrite</b> и его использование было разрешено. Eсли вы хотите отключить эту возможность, то удалите файл <b>.htaccess</b> в корневой папке и в процессе установки скрипта отключите поддержку этой функции. || Sistem SEO desteklidir, kullanabilmeniz için <b>modrewrite</b> modülünün sunucuda yüklü olması gerekir, Eğer modül yüklü değil ise, SEO fonksiyonunu devre dışı bırakmak için <b>.htaccess</b> dosyasını ana dizinden silin.
+Внимание: при установке скрипта создается структура базы данных, создается аккаунт администратора, а также прописываются основные настройки системы, поэтому после успешной установки удалите файл <b>install.php</b> во избежание повторной установки скрипта! || Dikkat: Kurulum dosyası bir veritabanı yapısı ve bir yönetici hesabı oluşturmaktadır. Başarılı bir kurulumdan sonra yeniden çalıştırılması kayıplara neden olabilmektedir. Güvenliğiniz amaçlı <b>install.php</b> dosyasını hemen sunucunuzdan silin!
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Загрузка изображений и файлов на сервер"]; || var dle_act_lang   = ["Evet", "Hayır", "Giriş", "İptal", "Resim yükleme ve sunucudaki dosyalar"];
+var cal_language   = {en:{months:['Январь','Февраль','Март','Апрель','Май','Июнь','Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'],поyOfWeek:["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб"]}}; || var cal_language   = {en:{months:['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'],dayOfWeek:["Pa", "Pt", "Sa", "Ça", "Pe", "Cu", "Ct"]}};
+Установка || Kurulum
+Поздравляем Вас, DataLife Engine был успешно установлен на Ваш сервер. Вы можете просмотреть теперь главную || Tebrikler, DataLife Engine sunucunuza başarıyla yüklendi
+Вы можете просмотреть теперь главную <a class="status-info" href="index.php">страницу вашего сайта</a>  и посмотреть возможности скрипта. || Artık <a class="status-info" href="index.php">sitenizin anasayfasına</a> bakabilir ve özellikleri inceleyebilirsiniz.
+Либо Вы можете <a class="status-info" href="admin.php">зайти</a> в панель управления DataLife Engine и изменить другие настройки системы. || Veya buradan DataLife Engine <a class="status-info" href="admin.php">kontol paneline</a> girebilir ve ayarlarınızı yönetebilirsiniz.
+Обновление завершено || Güncelleme Tamamlandı
+Обновление скрипта до актуальной версии <b>$version_id</b> было успешно завершено.<br /><br /> Удалите папку <b>/upgrade/</b> с вашего сервера || Script güncellemesi son sürüm olan <b>$version_id</b> sürümüne başarıyla gerçekleşmiştir.<br /><br /> Sunucunuzdan <b>/upgrade/</b> klasörünü silin
+Информация || Bilgilendirme
+Кодировка вашего сайта не соответствует кодировке дистрибутива. Ваш сайт использует кодировку: <b>{$config['charset']}</b>, а дистрибутив на который вы пытаетесь обновиться содержит кодировку: <b>{$distr_charset}</b>. Вам необходимо скачать дистрибутив в соответствующей кодировке, чтобы продолжить обновление. || Sitenizin kodlaması ile dağıtımın kodlaması uyuşmuyor. Sitenizin kodlaması: <b>{$config['charset']}</b>, güncelleme yapabilmeniz için kodlamanızın bu olması gerekmektedir: <b>{$distr_charset}</b>. Güncelleme yapabilmek için uygun kodlamalı sürümü indirmelisiniz.
+Обновление базы данных невозможно, DataLife Engine UTF Edition предназначен для обновления сайтов использующих кодировку сайта UTF-8 || Veritabanı güncellemesi yapılamaz, DataLife Engine UTF Edition kodlaması UTF8 olan siteler için tasarlanmıştır
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Загрузка изображений и файлов на сервер"]; || var dle_act_lang   = ["Evet", "Hayır", "Giriş", "İptal", "Resim yükleme ve sunucudaki dosyalar"];
+var cal_language   = {en:{months:['Январь','Февраль','Март','Апрель','Май','Июнь','Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'],поyOfWeek:["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб"]}}; || var cal_language   = {en:{months:['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'],dayOfWeek:["Pa", "Pt", "Sa", "Ça", "Pe", "Cu", "Ct"]}};
+Для обновления скрипта, вам необходимо ввести логин и пароль. || Güncelleme yapmak için kullanıcı adı ve şifreniz gereklidir.
+Неверно введены даннные для входа! || Yanlış giriş!
+Установите права для записи на файл || Dosyaya yazma izinlerini değiştirin
+Информация || Bilgilendirme
+Внимание: || Uyarı:
+Прежде чем приступить к процедуре обновления скрипта и базы данных, убедитесь что вы создали и сохранили у себя полные бекапы файлов скрипта и базы данных. Процедура обновления вносит необратимые изменения в структуру базы данных, отмена которых в будущем будет невозможна, вернуть в предыдущее состояние базу данных, можно будет только путем восстановления бекапов базы данных. Также во время процедуры обновления скрипт выполняет тяжелые запросы к базе данных, выполнение которых может потребовать продолжительное время, поэтому обновление рекомендуется проводить во время минимальной нагрузки на сервер. Для больших сайтов, имеющие большое количество публикаций, рекомендуется предварительно проводить обновление на локальном компьютере. || Güncelleme yaparken veritabanı yükseltme aşamasına gelmeden tam bir yedek aldığınızdan emin olun.Güncelleme işleminde veritabanında kalıcı değişiklikler yapılıyor, bu yüzden güncelleme işlemi geri almanız sadece önceden aldığınız veritabanı yedeği ile olabilir.Ayrıca güncelleme esnasında sunucunuza bağlı olarak veritabanı sorgu süreleri uzayabilir, bu nedenle sunucu yükünüzün hafiflediği zamanlarda güncelleme yapmanız daha sağlıklı olur.Çok sayıda makalesi olan siteler için bilgisayarınızda güncelleme yapmanız tavsiye edilir.
+Текущая версия скрипта || Şuanki versiyonunuz
+обновление будет пошагово произведено до версии: || güncellenecek olan versiyon
+Продолжить || İlerle
+
+Обновление || Güncelleme
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Загрузка изображений и файлов на сервер"]; || var dle_act_lang   = ["Evet", "Hayır", "Giriş", "İptal", "Resim yükleme ve sunucudaki dosyalar"];
+var cal_language   = {en:{months:['Январь','Февраль','Март','Апрель','Май','Июнь','Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'],поyOfWeek:["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб"]}}; || var cal_language   = {en:{months:['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'],dayOfWeek:["Pa", "Pt", "Sa", "Ça", "Pe", "Cu", "Ct"]}};
+Мастер обновления || Güncelleme Sihirbazı
+Ошибка || Hata
+Не удалось определить установленную версию скрипта, возможно поддержка этой версии была прекращена. Установка обновления остановлена. || Script sürümünüz belirlenemedi, muhtemelen bu sürüm için destek durduruldu.Güncelleme işlemi durduruldu.
+Установите права для записи на папку || Klasörün yazma izinlerini ayarlayın
+Рекомендуем также || Benzer makaleler
+Ваш e-mail || E-Mail adresiniz
+Yeni şifrenizi tekrarlayın код || Güvenlik kodunu girin
+Kodu girin указанный на картинке || Resimde gördüğünüz kodu girin
+Gönder комментарий || Yorumu Gönder
+URL haber || Makale URL'si
+Ekle Anket || Anket Ekle
+Список ответов || Cevap Listesi
+Краткое описание || Kısa açıklama
+Полное описание || Uzun açıklama
+Вводите через запятую || Virgül ile girin
+Введите ответ || Cevabı yazın
+поля отмеченные звездочкой обязательны для заполнения. || Yıldızlı alanların doldurulması zorunludur.
+ПредGöster || Göster
+онлайн || Online
+Онлайн || Online
+от {поte} || {date}
+Gönder сообщение || Mesajı gönder
+Новые сообщения || Yeni mesajlar
+Непрочитанные haber || Yeni eklenenler
+из {all-pm} || {all-pm}
+Kullanıcı adı или E-mail || Kullanıcı adınız veya E-mail adresiniz
+Восстановить || Gönder
+Мы вКонтакте || vКонтакте
+Мы в Facebook || Facebook
+Мы в Google || Google
+Geri dön на главную || Anasayfaya geri dön
+Убрать из закладок || Favorilerimden çıkar
+Важная новость || Sabit makale
+Önceki страница || Önceki sayfa
+Sonraki страница || Sonraki sayfa
+http://dle-news.ru/ || http://dle.net.tr/
+SoftNews Media Group || DLE.NET.TR
+Личные сообщения || Kişisel mesajlar
+Отправленые || Gönderilenler
+Создать сообщение || Yeni oluştur
+{pm-limit} сообщений || {pm-limit} mesajdan
+Adınız адресата || Kime
+Проголосовало || Oy sayısı
+Другие опросы... || Diğer anketler...
+Был на сайте || Son ziyareti
+Последняя активность || Son ziyareti
+Зарегистрирован || Kayıt tarihi
+Офлайн || Offline
+Продолжение регистрации || Kayıt işlemine devam
+однако информация о Вас является неполной, поэтому ОБЯЗАТЕЛЬНО заполните дополнительные поля в Вашем профиле. || Fakat hakkınızda daha fazla bilgi sahibi olmamız için ek alanları doldurmalısınız
+Проверить || Kontrol et
+Читать подробнее || Devamını oku
+Страницы || Sayfalar
+Кол-во публикаций || Makale sayısı
+Reyting на сайте || Sitedeki reytingi
+Ваш e-mail || E-mail adresiniz
+Место проживания || Nereden
+Загрузите аватар || Avatar yükle
+Использовать Gravatar || Gravatar servisi
+Örnekы || Örnek
+71 or 129 || 71 ya da 129
+Сохранить || Kaydet
+Неизвестно || Belirtilmedi
+Вверх || Yukarı
+Вниз || Aşağı
+Собственный сайт без компромиссов! || Sitenizden taviz vermeyin!
+660093 г. Красноярск, ул. Капитанская, дом 12, офис 43 || Abc Mahallesi, 123. Sokak, İl, İlçe
+8 (391) 217-99-79 || +9 (0555) 444-33-22
+2004&nпоsh;2016 || 2014&ndash;2016
+http://centroarts.ru || http://dle.net.tr
+Дизайн || Dizayn
+Programlarньюс Медиа Групп || Softnews Media Group
+Адрес || Adres
+?lang=ru_RU || ?lang=tr
+сортировать по || Sıralama
+На главную || Ana sayfa
+Популярное || Popülerler
+Düzenle оформление || Stil Değiştir
+Похожее || Benzer Makaleler
+Архив || Arşiv
+Поддержка || Destek
+Сайт системы || Site sistemi
+Клиенту || Müşteriler
+Меню || Menü
+Сортировать по || Sıralama
+Популярные haber || Popüler haberler
+Форум || Forum
+Haberler системы || Makale sistemi
+Мы в Соц.сетях || Sos. ağlarda biz
+Мы в соц.сетях || Sos. ağlarda biz
+Инстаграм || Instagram
+Одноклассники || Odnoklassniki
+Принять участие || Ankete katıl
+Купить скрипт || Scripti satın al
+Популярные теги || Popüler etiketler
+Yazarу будет очень приятно узнать обратную связь о своей haber. || Yazarın eklediği makalelere yapacağınız yorum, kendisi için iyi bir geri dönüş olacaktır.
+Справка || Bilgi
+Искать || Ara
+Новость || Makale
+Обсуждаемое || Tartışılanlar
+Пользователю || Kullanıcılar
+Soru ответ || Soru cevap
+Специальный репортаж || Özel raporlar
+Стратегия || Strateji
+Страховое время || Sigorta süresi
+Территория безопасности || Güvenli bölge
+Технологии жилья || Ev teknolojisi
+Транспорт || Taşıyıcılık
+Факты || Gerçekler
+Финансовая стратегия || Finansal strateji
+Формула власти || Güç formülü
+Церковь и мир || Din
+Честный детектив || Dedektif
+Возможно Вам понравится || Benzer Makaleler
+Мои сообщения || Mesajlarım
+Ваша персональная мини-панель || Kullanıcı paneli
+Panel Управления || Kullanıcı paneli
+Çıkış из профиля || Çıkış yap
+Giriş formu на сайт || Siteye giriş formu
+Вспомнить пароль || Şifremi unuttum
+Открыть меню || Menüyü aç
+Смотреть еще || Diğerleri
+Обзоры || Gözat
+Videoгаллерея || Video Galeri
+Субменю || Alt Menü
+Ваша почта на сайте || Mesajlarınız
+Вам Yazan || Yazan
+Последнее || Tarih
+Комментируемое || Yorum Sayısı
+Тэги || Etiketler
+Anketы || Anket
+Пункт навигации || Navigasyon Linki
+Спонсоры || Sponsorlar
+Страна || Nereden
+
