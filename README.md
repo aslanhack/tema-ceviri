@@ -1,2 +1,3 @@
-# tema-ceviri
-Tema çevirileri için kullandığımız çeviriler
+# Tema Çevirileri için kullandığımız, kelime veri tabanıdır.
+
+Kullanıcılar, çevirilerde eksik kalan kısımları "Pull request" olarak ekleyebilirler.
